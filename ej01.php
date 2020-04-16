@@ -12,7 +12,6 @@ Potencia
 	Al presionar enviar se debe hacer el cálculo seleccionado
 */
 
-
 ?>
 
 <html>
